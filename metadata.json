@@ -1,0 +1,8 @@
+
+{
+  "name": "UzNavi - Your AI Uzbekistan Guide",
+  "description": "An AI-powered travel companion for Uzbekistan that generates personalized day-by-day routes based on user interests, budget and trip length.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
